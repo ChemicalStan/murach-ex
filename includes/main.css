@@ -1,0 +1,36 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+#content {
+    width: 450px;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    background: white;
+    border: 2px solid navy; 
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+label {
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+}
+
+#data input {
+    float: left;
+    margin-bottom: .5em;
+}
+
+br {
+    clear: left;
+}
+
+#error {
+    text-align: center;
+    color: crimson;
+}
